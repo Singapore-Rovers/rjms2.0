@@ -1,2 +1,2 @@
-# rjms2.0
+# RJMA 2.0
 Rover Journey Portal 2.0
