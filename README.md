@@ -3,7 +3,20 @@ Rover Journey Portal 2.0
 
 
 ## Overview
-This project is taken up with the objective of creating a new Rover Journey Portal for Singapore Rovers where Rovers can view module requirements, plan their Rover Journey and submit their Rover Journey Tiers online.
+This project is taken up with the objective of creating a new Rover Journey Portal for Singapore Rovers with the following benefits for the users:
 
-The portal allows RSLs to view and approve Tier Submissions with Justification
 
+**Rover**
+- [ ] mark and plan modules for their Rover Journey
+- [ ] submit RJMS Modules by tiers
+- [ ] Communicate with RSL using the platform
+
+
+**RSL**
+- [ ] approve/reject tier submissions
+- [ ] view statistics of RJMS participation in unit
+
+
+**NRC**
+- [ ] approve NRC modules
+- [ ] view statistics of RJMS participation by area and national
