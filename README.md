@@ -5,7 +5,7 @@ Rover Journey Portal 2.0
 ## Developers
 
 1. Rishab Patwari (Stallion Scout Group)
-2. Woody
+2. Woody (Banana Group)
 3. Shawn
 4. Ray
 5. Desyre
