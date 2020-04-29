@@ -1,7 +1,25 @@
 import React from 'react';
+import '../buttons/style.css'
 
-const themedButton = () => {
+export const ThemedButton = () => {
     return(
-        <button></button>
+        <button className="button2">
+            Hello
+        </button>
+    )
+}
+
+export const Header = () => {
+    return(
+        <div className="header">
+            <button>
+                RISHAB BUTTON
+            </button>
+            <button className="button1">
+                BUTTON 2
+            </button>
+
+        </div>
+        
     )
 }
