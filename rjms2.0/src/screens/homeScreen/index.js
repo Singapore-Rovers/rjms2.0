@@ -1,6 +1,6 @@
 import React from 'react';
 
-const homeScreen = () => {
+function HomeScreen() {
     return(
         <view>
             <text>Hello World</text>
@@ -9,4 +9,4 @@ const homeScreen = () => {
     )
 }
 
-export default homeScreen;
+export default HomeScreen;
