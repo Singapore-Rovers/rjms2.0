@@ -9,7 +9,7 @@ Rover Journey Portal 2.0
 3. Shawn
 4. Ray
 5. Desyre
-
+6. Mark
 
 ## Overview
 This project is taken up with the objective of creating a new Rover Journey Portal for Singapore Rovers with the following benefits for the users:
